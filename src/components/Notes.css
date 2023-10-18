@@ -1,0 +1,18 @@
+/* div{
+    border:2px yellow solid;
+    top:100px;
+    display:flex;
+    flex-direction:column;
+
+} */
+.notes{
+    border:2px yellow solid;
+    font-size: larger;
+    margin-top:100px;
+    max-width:max-content;
+    /* width:70px; */
+    background-color: aqua;
+}
+h2{
+    color:black;
+}

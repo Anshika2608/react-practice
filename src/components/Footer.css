@@ -1,0 +1,10 @@
+footer{
+    width:100%;
+    bottom:0;
+    background-color: rgba(50, 48, 48, 0.393);
+}
+p{
+    text-align: center;
+    color:white;
+    font-size: 2rem;
+}

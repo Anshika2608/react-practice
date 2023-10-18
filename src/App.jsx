@@ -1,3 +1,5 @@
+import Heading1 from "./components1/Heading1"
+import List from "./components1/List"
 function App() {
   // let lname="mittal";
   // let name='Anshika';
@@ -25,6 +27,10 @@ let wish="";
 
   return (
      <>
+     <Heading1 />
+     <List />
+     <List />
+     
      <h1 className="heading" style={style}>{wish}</h1>
      </>
     )
